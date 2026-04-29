@@ -6,6 +6,12 @@ The project treats the interface as a responsive system rather than static UI—
 
 ---
 
+## Live Demo
+
+https://omnitrix-custom.vercel.app/
+
+---
+
 ## Why This Project
 
 This project explores how complex, device-like interactions can be modeled in a frontend application.
